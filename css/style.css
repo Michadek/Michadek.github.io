@@ -1,0 +1,14 @@
+@font-face{
+	src:url(../fonts/fonts/Lora/Lora-Italic.ttf);
+	font-family: Lora-Italic;
+
+}
+@font-face{
+	src:url(../fonts/fonts/PT_Serif-Web-Bold.ttf);
+    font-family: PT_Serif-Web-Bold;
+}
+#ptag{
+font-family: Lora-Italic;
+font-size: 24px;
+background-color: red;
+}
